@@ -1,0 +1,16 @@
+{
+    "Names":[
+        {
+            "name":"pujitha",
+            "salary":50
+        },
+        {
+            "name":"lokesh",
+            "salary":30
+        },
+        {
+            "name":"sarika",
+            "salary":40
+        }
+    ]
+}
