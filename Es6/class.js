@@ -7,5 +7,5 @@ class persons{
     }
 }
 
-const friends = new persons("loki","puji");
+const friends = new persons("abc","bcd");
 console.log(friends);

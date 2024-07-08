@@ -2,7 +2,7 @@
 // Javascript is  synchronus  single -threaded lanaguage 
 
 const n = 3;
-const name = "puji"
+const name = "abc"
 function square(num){
     return num * num;
 }
@@ -22,7 +22,7 @@ console.log(square3);
 
 // step 2 
 // n = 3;
-// name = "puji"
+// name = "abc"
 // square = square(){..}
 // square2 = 9
 // square3 =

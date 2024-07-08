@@ -14,3 +14,9 @@
         }
     ]
 }
+
+
+// before running this file please remove comments.
+// how to run the json data.
+// --> terminal.
+// npx json-server --watch filename.js
