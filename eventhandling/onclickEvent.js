@@ -1,5 +1,14 @@
 // handling the action 
 
+// input events : onchange , onkeyup , onkeypress , onkeydown ....
+// mouse events : onmouseover , onmousedown , ... 
+// click events : onclick , ondclick ..
+
+
+
+
+
+
 function onbutton(){
     console.log("onbutton");
     document.getElementById("demo").innerHTML = "bulb is on";
